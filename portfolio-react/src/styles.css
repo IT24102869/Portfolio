@@ -150,7 +150,8 @@ img { max-width: 100%; display: block; }
 .hero__media { display: grid; justify-items: end; gap: 14px; }
 .avatar {
   width: 220px;
-  aspect-ratio: 1;
+  height: 220px;
+  object-fit: cover;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: var(--panel);
