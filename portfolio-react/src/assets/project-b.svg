@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Project image placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="32" fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.35)"/>
+  <circle cx="130" cy="120" r="10" fill="rgba(255,255,255,0.55)"/>
+  <circle cx="160" cy="120" r="10" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="190" cy="120" r="10" fill="rgba(255,255,255,0.35)"/>
+  <text x="100" y="200" font-family="ui-sans-serif,system-ui" font-size="44" fill="rgba(255,255,255,0.92)">
+    Project B
+  </text>
+  <text x="100" y="260" font-family="ui-sans-serif,system-ui" font-size="22" fill="rgba(255,255,255,0.85)">
+    Replace this SVG in src/assets
+  </text>
+</svg>
