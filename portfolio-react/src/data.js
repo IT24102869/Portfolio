@@ -24,6 +24,8 @@ import projectJImage from './assets/project-j.svg'
 import certificateAImage from './assets/c1.jpeg'
 import certificateBImage from './assets/c2.jpeg'
 import certificateCImage from './assets/c3.jpeg'
+import certificateDImage from './assets/c4.jpeg'
+import certificateEImage from './assets/c5.jpeg'
 
 export const site = {
   name: 'Sithirasenan Vipooshan ',
@@ -173,5 +175,23 @@ export const certificates = [
     tags: ['Cybersecurity'],
     credentialUrl: 'https://freecodecamp.org/certification/example-js',
     verifyUrl: 'https://freecodecamp.org/certification/verify/example-js'
-  }
+  },  {
+    title: 'Agile Project Management',
+    issuer: 'HP LIFE online course',
+    description: 'Completed the “Agile Project Management” , gaining knowledge in defining minimum viable products (MVP), understanding iterative and incremental development, analyzing Agile methodologies such as Scrum and Kanban, and applying agile ways of working to improve project management.',
+    image: certificateDImage,
+    date: '9/6/2025',
+    tags: ['Agile','Project Management','Scrum','Kanban'],
+    credentialUrl: 'https://freecodecamp.org/certification/example-js',
+    verifyUrl: 'https://freecodecamp.org/certification/verify/example-js'
+  }, {
+    title: 'Introduction to UI/UX',
+      issuer: 'Uki',
+      description: 'the “Introduction to UI/UX” online course from Uki, gaining knowledge in understanding the importance of UI/UX in web development, the user journey, and the design process.',
+    image: certificateEImage,
+    date: '9/6/2025',
+    tags: ['UI/UX','User Journey','Design Process','Figma'],
+    credentialUrl: 'https://freecodecamp.org/certification/example-js',
+    verifyUrl: 'https://freecodecamp.org/certification/verify/example-js'
+  } 
 ]
