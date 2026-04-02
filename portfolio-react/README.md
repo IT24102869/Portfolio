@@ -2,7 +2,7 @@
 
 A clean, responsive portfolio website built with **React + Vite**.
 
-## 1) Install
+## 1) Install.
 
 ```bash
 npm install
